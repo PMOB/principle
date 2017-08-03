@@ -1,3 +1,6 @@
+# The Zen of PMOB
+ギジュツツヨクナリタイヒトアツマルサイタマ
+
 # PMOB Style Guide v0.1
 
 - Slackに参加してたらPMOBの人だよ。残念だったね
