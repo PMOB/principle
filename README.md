@@ -1,4 +1,4 @@
-# The Zen of PMOB
+# PMOB ってなんですか
 ギジュツツヨクナリタイヒトアツマルサイタマ
 
 # PMOB Style Guide v0.1
